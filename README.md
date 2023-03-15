@@ -1,6 +1,9 @@
+EBEON1122410684-EON-DATA-ANLAYST-FINAL-PROJECT-EDUBRIGE
+
 # HeartAttackPrediction
-NAME : SAI KIRAN ALE
-BATCH:8162-EON Certification Program in Data Analytics
+
+NAME : SAI KIRAN ALE   
+BATCH:8162-EON Certification Program in Data Analytics     
 Enrollment Number :EBEON1122410684
 
 # PROJECT ABSTRACT:
@@ -23,4 +26,5 @@ Model Training
 Model Deployment
 
 # CONCLUSION:
+
 Our Logistic Regression algorithm yields the highest accuracy, 85%. Any accuracy above 70% is considered good, but be careful because if your accuracy is extremly high, it may be too good to be true (an example of Overfitting). Thus, 85% is the ideal accuracy!
